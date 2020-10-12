@@ -95,7 +95,7 @@ if otvet == 'Умножить':
                     print(m3[i][j], end = " ") 
                 print()
 elif otvet == "Сложить":
-    print("Вводим")
+    print("Через Enter введите члены 1-го столбца, далее 2-го и 3-го.")
     for i in range(3):                      #Вводим 2-ую матрицу.
         a =[]                         
         for j in range(3):    
